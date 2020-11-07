@@ -1,0 +1,6 @@
+
+  {
+    "ConnectionString": "Data Source=localhost\\SQLEXPRESS;Initial Catalog=elibraryDB;Integrated Security=true"
+  }
+
+
